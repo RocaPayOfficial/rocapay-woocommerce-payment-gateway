@@ -7,7 +7,7 @@ This payment gateway integration enables you to use [RocaPay](https://rocapay.co
 3. Click the `Install Now` button
 4. When finished installing, click the `Activate` button
 ## Direct Download
-You can also download the gateway as a [ZIP File](https://github.com/rocapayofficial/rocapay-woocommerce-payment-gateway/archive/master.zip) and then use one of the methods below to install it. 
+You can also download the gateway as a [ZIP File](https://github.com/RocaPayOfficial/rocapay-woocommerce-payment-gateway/releases/download/1.0.0/rocapay-woocommerce-payment-gateway-1.0.0.zip) and then use one of the methods below to install it. 
 ### WordPress Plugin Uploader
 1. Navigate to `Plugins` in your admin panel
 2. Click the `Upload Plugin` button and proceed to upload the ZIP file
